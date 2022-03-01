@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -40,6 +39,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Hector Perez](https://hectorrperez.github.io/portafolio_hector/)
+- Frontend Mentor - [@hectorRperez](https://www.frontendmentor.io/profile/hectorRperez)
+- Twitter - [@hectorPerezDev](https://twitter.com/hectorPerezDev)
+- linkedin - [Hector Perez](https://www.linkedin.com/in/hector-perez-56475ab5/)
